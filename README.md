@@ -1,4 +1,6 @@
-# project5-shopping-bag-finished
+Projeto Loja de Roupas
+Esse projeto foi criado com o intuito de aprimorar conhecimentos de manipulação de API,
+simulando uma loja de roupas usando a técnica de CRUD.
 
 ## Project setup
 ```
